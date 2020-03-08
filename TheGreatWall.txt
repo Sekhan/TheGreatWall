@@ -1,0 +1,209 @@
+## Title : TheGreatWall
+## Prevent program and malware to bypass DNS filter by using popular DoH services
+## To block DNS over TLS (DoT), block port 853
+## This list has been created for security purpose ONLY
+## Last update : 8 Mars 2020
+## Domain count : 107
+===================================================================
+
+# Aaflalo
+0.0.0.0 dns.aaflalo.me
+0.0.0.0 dns-nyc.aaflalo.me
+
+# AdGuard
+0.0.0.0 dns.adguard.com
+0.0.0.0 dns-family.adguard.com
+
+# Alekberg
+0.0.0.0 dns.alekberg.net
+0.0.0.0 dns2.alekberg.net
+
+# Andrews & Arnold
+0.0.0.0 dns.aa.net.uk
+
+# Association 42l
+0.0.0.0 doh.42l.fr
+
+# BlahDNS
+0.0.0.0 doh-fi.blahdns.com
+0.0.0.0 doh-jp.blahdns.com
+0.0.0.0 doh-de.blahdns.com
+
+# Brahma World
+0.0.0.0 dns.brahma.world
+
+# Captnemo
+0.0.0.0 doh.captnemo.in
+
+# Clean Browsing
+0.0.0.0 family-filter-dns.cleanbrowsing.org
+0.0.0.0 adult-filter-dns.cleanbrowsing.org
+0.0.0.0 security-filter-dns.cleanbrowsing.org
+
+# Cloudflare
+0.0.0.0 one.one.one.one
+0.0.0.0 mozilla.cloudflare-dns.com
+0.0.0.0 1dot1dot1dot1.cloudflare-dns.com
+0.0.0.0 cloudflare-dns.com
+0.0.0.0 dns64.cloudflare-dns.com
+
+# Comcast
+0.0.0.0 doh.xfinity.com
+
+# Comodo
+0.0.0.0 ns1.recursive.dnsbycomodo.com
+0.0.0.0 ns2.recursive.dnsbycomodo.com
+
+# ContainerPI
+0.0.0.0 dns.containerpi.com
+
+# Cox
+0.0.0.0 dohdot.coxlab.net
+
+# Crypto.sx
+0.0.0.0 doh.crypto.sx
+
+# Digitale Gesellschaft
+0.0.0.0 dns.digitale-gesellschaft.ch
+
+# Doh.li
+0.0.0.0 doh.li
+
+# DNS lify
+0.0.0.0 doh.dnslify.com
+0.0.0.0 a.ns.dnslify.com
+0.0.0.0 b.ns.dnslify.com
+0.0.0.0 a.safe.ns.dnslify.com
+0.0.0.0 b.safe.ns.dnslify.com
+0.0.0.0 a.family.ns.dnslify.com
+0.0.0.0 b.family.ns.dnslify.com
+
+# DNS Seby
+0.0.0.0 doh.seby.io
+0.0.0.0 doh-2.seby.io
+
+# DNS.SB
+0.0.0.0 doh.dns.sb
+
+# Dyn
+0.0.0.0 resolver1.dyndnsinternetguide.com
+0.0.0.0 resolver2.dyndnsinternetguide.com
+
+# FFmuc
+0.0.0.0 doh.ffmuc.net
+
+# Foundation for Applied Privacy
+0.0.0.0 doh.applied-privacy.net
+
+# GeekDNS
+0.0.0.0 dns.233py.com
+0.0.0.0 i.233py.com
+
+# Google
+0.0.0.0 dns.google
+0.0.0.0 google-public-dns-a.google.com
+0.0.0.0 google-public-dns-b.google.com
+0.0.0.0 dns64.dns.google
+
+# Hostux
+0.0.0.0 dns.hostux.net
+
+# Ibuki
+0.0.0.0 ibuki.cgnat.net
+
+# Ibksturm
+0.0.0.0 ibksturm.synology.me
+
+# Jcdns
+0.0.0.0 jcdns.fun
+
+# Lelux
+0.0.0.0 resolver-eu.lelux.fi
+
+# LibreDNS
+0.0.0.0 doh.libredns.gr
+
+# Mrkaran
+0.0.0.0 dns.mrkaran.dev
+
+# NekomimiRouter
+0.0.0.0 dns.dns-over-https.com
+
+# NextDNS
+0.0.0.0 dns.nextdns.io
+
+# NixNet
+0.0.0.0 uncensored.any.dns.nixnet.xyz
+0.0.0.0 adblock.any.dns.nixnet.xyz
+0.0.0.0 uncensored.lv1.dns.nixnet.xyz
+0.0.0.0 adblock.lv1.dns.nixnet.xyz
+0.0.0.0 uncensored.ny1.dns.nixnet.xyz
+0.0.0.0 adblock.ny1.dns.nixnet.xyz
+0.0.0.0 uncensored.lux1.dns.nixnet.xyz
+0.0.0.0 adblock.lux1.dns.nixnet.xyz
+
+# OpenDNS
+0.0.0.0 resolver1.opendns.com
+0.0.0.0 resolver2.opendns.com
+0.0.0.0 resolver1-fs.opendns.com
+0.0.0.0 resolver2-fs.opendns.com
+0.0.0.0 resolver1.ipv6-sandbox.opendns.com
+0.0.0.0 resolver2.ipv6-sandbox.opendns.com
+
+# OSZX (PumpleX)
+0.0.0.0 dns.oszx.co
+0.0.0.0 dns.pumplex.com
+
+# Pi-DNS
+0.0.0.0 doh.centraleu.pi-dns.com
+0.0.0.0 doh.northeu.pi-dns.com
+0.0.0.0 doh.westus.pi-dns.com
+0.0.0.0 doh.eastus.pi-dns.com
+
+# PowerDNS
+0.0.0.0 doh.powerdns.org
+
+# Qua9
+0.0.0.0 dns.quad9.net
+0.0.0.0 dns9.quad9.net
+0.0.0.0 dns10.quad9.net
+0.0.0.0 dns11.quad9.net
+0.0.0.0 rpz-public-resolver1.rrdns.pch.net
+0.0.0.0 dns-nosec.quad9.net
+
+# Rubyfish
+0.0.0.0 v6.rubyfish.cn
+0.0.0.0 dns.rubyfish.cn
+0.0.0.0 ea-dns.rubyfish.cn
+0.0.0.0 uw-dns.rubyfish.cn
+
+# Secure DNS
+0.0.0.0 doh.securedns.eu
+0.0.0.0 ads-doh.securedns.eu
+
+# Snopyta
+0.0.0.0 fi.doh.dns.snopyta.org
+
+# Switch
+0.0.0.0 dns.switch.ch
+
+# Tiarap
+0.0.0.0 doh.tiar.app
+0.0.0.0 doh.tiarap.org
+0.0.0.0 jp.tiar.app
+0.0.0.0 jp.tiarap.org
+
+# VeriSign
+0.0.0.0 recpubns1.nstld.net
+0.0.0.0 recpubns2.nstld.net
+
+# Xfinity (Comcast)
+0.0.0.0 doh.xfinity.com
+
+# Yandex
+0.0.0.0 dns.yandex.ru
+0.0.0.0 secondary.dns.yandex.ru
+0.0.0.0 safe.dns.yandex.ru
+0.0.0.0 secondary.safe.dns.yandex.ru
+0.0.0.0 family.dns.yandex.ru
+0.0.0.0 secondary.family.dns.yandex.ru
