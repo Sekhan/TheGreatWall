@@ -2,7 +2,8 @@
 ## Prevent program and malware to bypass DNS filter by using popular DoH services
 ## To block DNS over TLS (DoT), block port 853
 ## This list has been created for security purpose ONLY
-## Last update : 8 Mars 2020
+## To be more efficient, you should also consider blocking DoH providers IP adresses
+## Last update : 9 Mars 2020
 ## Domain count : 107
 ===================================================================
 
