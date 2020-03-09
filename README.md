@@ -10,7 +10,7 @@ DoH is a protocol introduced in 2018 as a solution to improve DNS security by en
 
 While bringing encryption is always an important thing, including in oppressive countries, DoH isn't a bulletproof solution and may actually cause more problem than it solve. **The rise of service providing DoH, especially US companies like Google or Cloudflare, could harm your privacy by offering additional tracking capabilities** (ex : TLS resumption, which allow to reuse a previous encrypted state for future connection to the same server, could be used to track your browser across IP adress changes) **and centralizing DNS traffic into popular DoH resolver.**
 
-**But moreover, programs and malware could abuse public DoH provider to evade DNS filtering (like Pihole) and communicate with telemetry service or command-and-control server. See <a href="https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/new-godlua-backdoor-found-abusing-dns-over-https-doh-protocol">Godlua malware</a>.**
+**But moreover, programs and malwares could abuse public DoH provider to evade DNS filtering (like Pihole) and communicate with telemetry service or command-and-control server. See <a href="https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/new-godlua-backdoor-found-abusing-dns-over-https-doh-protocol">Godlua malware</a>.**
 
 ### Disclaimer : the Good and the Bad
 
