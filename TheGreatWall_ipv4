@@ -2,7 +2,7 @@
 ## Blocking DoH providers at firewall level
 ## This list has been created for security purpose ONLY
 ## Last update : 9 Mars 2020
-## IP count : 94
+## IP count : 95
 
 =====================
 Raw list
@@ -101,6 +101,7 @@ Raw list
 104.18.45.204
 172.104.93.80
 96.113.151.147
+104.236.178.232
 
 =====================
 Ordered list
@@ -290,3 +291,6 @@ Ordered list
 
 # Xfinity (Comcast)
 96.113.151.147
+
+# Others
+104.236.178.232
