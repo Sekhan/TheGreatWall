@@ -4,7 +4,7 @@
 ## This list has been created for security purpose ONLY
 ## To be more efficient, you should also consider blocking DoH providers IP adresses
 ## Last update : 9 Mars 2020
-## Domain count : 107
+## Domain count : 99
 ===================================================================
 
 # Aaflalo
@@ -194,17 +194,5 @@
 0.0.0.0 jp.tiar.app
 0.0.0.0 jp.tiarap.org
 
-# VeriSign
-0.0.0.0 recpubns1.nstld.net
-0.0.0.0 recpubns2.nstld.net
-
 # Xfinity (Comcast)
 0.0.0.0 doh.xfinity.com
-
-# Yandex
-0.0.0.0 dns.yandex.ru
-0.0.0.0 secondary.dns.yandex.ru
-0.0.0.0 safe.dns.yandex.ru
-0.0.0.0 secondary.safe.dns.yandex.ru
-0.0.0.0 family.dns.yandex.ru
-0.0.0.0 secondary.family.dns.yandex.ru
