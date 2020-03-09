@@ -4,7 +4,7 @@
 ## This list has been created for security purpose ONLY
 ## To be more efficient, you should also consider blocking DoH providers IP adresses
 ## Last update : 9 Mars 2020
-## Domain count : 99
+## Domain count : 101
 ===================================================================
 
 # Aaflalo
@@ -196,3 +196,7 @@
 
 # Xfinity (Comcast)
 0.0.0.0 doh.xfinity.com
+
+# Others
+0.0.0.0 dns.dnsoverhttps.net
+0.0.0.0 doh.dnswarden.com
