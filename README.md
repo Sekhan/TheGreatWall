@@ -22,7 +22,7 @@ You can also block `port 853` for DNS over TLS (DoT)
 
 - <a href="https://www.youtube.com/watch?v=pjin3nv8jAo"> NLNOG 2019 - DNS over HTTPS considerations</a>.
 
-- <a href="https://www.ietf.org/id/draft-doh-reid-operator-00.txt">DoH draft for the IETF</a> ("Privacy Concerns" and "Security Considerations").
+- <a href="https://www.ietf.org/archive/id/draft-doh-reid-operator-00.txt">DoH draft for the IETF</a> ("Privacy Concerns" and "Security Considerations").
 
 
 <p align="right"> * Wall icon drawed by Eucalyp (flaticon.com)
