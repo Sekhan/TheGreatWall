@@ -1,8 +1,8 @@
 ## Title: TheGreatWall_ipv6
 ## Blocking DoH providers at firewall level
 ## This list has been created for security purpose ONLY
-## Last update : 11 Mars 2020
-## IP count : 65
+## Last update : 14 Mars 2020
+## IP count : 66
 
 =====================
 Raw list
@@ -40,6 +40,7 @@ Raw list
 2606:4700:3037::681b:a51b
 2001:4860:4860::8844
 2001:4860:4860::8888
+2001:4860:4860::6464
 2001:4860:4860::64
 2001:4b98:dc2:43:216:3eff:fe86:1d28
 2a02:1205:34d5:5070:b26e:bfff:fe1d:e19b
@@ -142,6 +143,7 @@ Ordered list
 # Google
 2001:4860:4860::8844
 2001:4860:4860::8888
+2001:4860:4860::6464
 2001:4860:4860::64
 
 # Hostux
