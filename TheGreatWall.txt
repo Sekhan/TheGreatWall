@@ -3,8 +3,8 @@
 ## To block DNS over TLS (DoT), block port 853
 ## This list has been created for security purpose ONLY
 ## To be more efficient, you should also consider blocking DoH providers IP adresses
-## Last update : 9 Mars 2020
-## Domain count : 101
+## Last update : 14 Mars 2020
+## Domain count : 118
 ===================================================================
 
 # Aaflalo
@@ -18,12 +18,16 @@
 # Alekberg
 0.0.0.0 dns.alekberg.net
 0.0.0.0 dns2.alekberg.net
+0.0.0.0 dnsse.alekberg.net
 
 # Andrews & Arnold
 0.0.0.0 dns.aa.net.uk
 
 # Association 42l
 0.0.0.0 doh.42l.fr
+
+# AT&T
+0.0.0.0 dohtrial.att.net
 
 # BlahDNS
 0.0.0.0 doh-fi.blahdns.com
@@ -36,10 +40,14 @@
 # Captnemo
 0.0.0.0 doh.captnemo.in
 
+# Cisco
+0.0.0.0 doh.opendns.com
+
 # Clean Browsing
 0.0.0.0 family-filter-dns.cleanbrowsing.org
 0.0.0.0 adult-filter-dns.cleanbrowsing.org
 0.0.0.0 security-filter-dns.cleanbrowsing.org
+0.0.0.0 doh.cleanbrowsing.org
 
 # Cloudflare
 0.0.0.0 one.one.one.one
@@ -55,6 +63,9 @@
 0.0.0.0 ns1.recursive.dnsbycomodo.com
 0.0.0.0 ns2.recursive.dnsbycomodo.com
 
+# Commons-host
+0.0.0.0 commons.host
+
 # ContainerPI
 0.0.0.0 dns.containerpi.com
 
@@ -63,12 +74,20 @@
 
 # Crypto.sx
 0.0.0.0 doh.crypto.sx
+0.0.0.0 doh-ipv6.crypto.sx
 
 # Digitale Gesellschaft
 0.0.0.0 dns.digitale-gesellschaft.ch
 
 # Doh.li
 0.0.0.0 doh.li
+
+# DNScrypt (DoH)
+0.0.0.0 dns1.dnscrypt.ca
+0.0.0.0 dns2.dnscrypt.ca
+
+# DNSforge
+0.0.0.0 dnsforge.de
 
 # DNS lify
 0.0.0.0 doh.dnslify.com
@@ -99,6 +118,9 @@
 # GeekDNS
 0.0.0.0 dns.233py.com
 0.0.0.0 i.233py.com
+0.0.0.0 wdns.233py.com
+0.0.0.0 ndns.233py.com
+0.0.0.0 sdns.233py.com
 
 # Google
 0.0.0.0 dns.google
@@ -172,6 +194,9 @@
 0.0.0.0 rpz-public-resolver1.rrdns.pch.net
 0.0.0.0 dns-nosec.quad9.net
 
+# Quad101
+0.0.0.0 dns.twnic.tw
+
 # Rubyfish
 0.0.0.0 v6.rubyfish.cn
 0.0.0.0 dns.rubyfish.cn
@@ -194,9 +219,15 @@
 0.0.0.0 jp.tiar.app
 0.0.0.0 jp.tiarap.org
 
+# t53
+0.0.0.0 dns.t53.de
+
 # Xfinity (Comcast)
 0.0.0.0 doh.xfinity.com
 
 # Others
 0.0.0.0 dns.dnsoverhttps.net
 0.0.0.0 doh.dnswarden.com
+0.0.0.0 doh.appliedprivacy.net
+0.0.0.0 public.dns.iij.jp
+0.0.0.0 jp.gridns.xyz
