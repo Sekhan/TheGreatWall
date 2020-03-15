@@ -12,7 +12,7 @@ While bringing encryption is always an important thing, including in oppressive 
 
 ### Disclaimer : the Good and the Bad
 
-**Theses lists (updated every month) has been created for security purpose ONLY**. there are not a tool to prevent your employee from bypassing the fact that you're monitoring/blocking their online activity ! If you suspect your entity to do so, consider using a VPN or Tor Browser.
+**Theses lists (updated every month) has been created for security purpose ONLY**. There are not a tool to prevent your employee from bypassing the fact that you're monitoring/blocking their online activity ! If you suspect your entity to do so, consider using a VPN or Tor Browser.
 
 You can also block `port 853` for DNS over TLS (DoT)
 
