@@ -3,8 +3,8 @@
 ## To block DNS over TLS (DoT), block port 853
 ## This list has been created for security purpose ONLY
 ## To be more efficient, you should also consider blocking DoH providers IP adresses
-## Last update : 14 Mars 2020
-## Domain count : 118
+## Last update : 5 April 2020
+## Domain count : 127
 ===================================================================
 
 # Aaflalo
@@ -37,11 +37,17 @@
 # Brahma World
 0.0.0.0 dns.brahma.world
 
+# Canadian Shield
+0.0.0.0 private.canadianshield.cira.ca
+0.0.0.0 protected.canadianshield.cira.ca
+0.0.0.0 family.canadianshield.cira.ca
+
 # Captnemo
 0.0.0.0 doh.captnemo.in
 
 # Cisco
 0.0.0.0 doh.opendns.com
+0.0.0.0 doh.familyshield.opendns.com
 
 # Clean Browsing
 0.0.0.0 family-filter-dns.cleanbrowsing.org
@@ -55,6 +61,8 @@
 0.0.0.0 1dot1dot1dot1.cloudflare-dns.com
 0.0.0.0 cloudflare-dns.com
 0.0.0.0 dns64.cloudflare-dns.com
+0.0.0.0 security.cloudflare-dns.com
+0.0.0.0 family.cloudflare-dns.com
 
 # Comcast
 0.0.0.0 doh.xfinity.com
@@ -231,3 +239,6 @@
 0.0.0.0 doh.appliedprivacy.net
 0.0.0.0 public.dns.iij.jp
 0.0.0.0 jp.gridns.xyz
+0.0.0.0 dns.flatuslifir.is
+0.0.0.0 odvr.nic.cz
+0.0.0.0 rumpelsepp.org
