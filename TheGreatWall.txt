@@ -3,8 +3,8 @@
 ## To block DNS over TLS (DoT), block port 853
 ## This list has been created for security purpose ONLY
 ## To be more efficient, you should also consider blocking DoH providers IP adresses
-## Last update : 5 April 2020
-## Domain count : 127
+## Last update : 3 May 2020
+## Domain count : 130
 ===================================================================
 
 # Aaflalo
@@ -33,6 +33,7 @@
 0.0.0.0 doh-fi.blahdns.com
 0.0.0.0 doh-jp.blahdns.com
 0.0.0.0 doh-de.blahdns.com
+0.0.0.0 doh-sg.blahdns.com
 
 # Brahma World
 0.0.0.0 dns.brahma.world
@@ -242,3 +243,6 @@
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 odvr.nic.cz
 0.0.0.0 rumpelsepp.org
+0.0.0.0 ordns.he.net
+0.0.0.0 rdns.faelix.net
+
