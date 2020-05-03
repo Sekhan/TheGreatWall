@@ -1,8 +1,8 @@
 ## Title: TheGreatWall_ipv6
 ## Blocking DoH providers at firewall level
 ## This list has been created for security purpose ONLY
-## Last update : 5 April 2020
-## IP count : 91
+## Last update : 3 May 2020
+## IP count : 97
 
 =====================
 Raw list
@@ -15,6 +15,7 @@ Raw list
 2a01:4f9:c010:43ce::1
 2001:19f0:7001:3259:5400:2ff:fe71:bc9
 2a01:4f8:1c1c:6b4b::1
+2001:19f0:4400:6bed:5400:2ff:feb1:f9fa
 2400:6180:100:d0::8d7:1
 2620:10a:80bc::10
 2620:10a:80bb::10
@@ -98,6 +99,11 @@ Raw list
 2001:678:888:69:c45d:2738:c3f2:1878
 2001:148f:fffe
 2a01:4f8:c2c:87b5::1
+2001:470:20::2
+2a01:9e00::54
+2a01:9e01::55
+2a01:9e00::55
+2a01:9e01::54 
 
 =====================
 Ordered list
@@ -117,6 +123,7 @@ Ordered list
 2a01:4f9:c010:43ce::1
 2001:19f0:7001:3259:5400:2ff:fe71:bc9
 2a01:4f8:1c1c:6b4b::1
+2001:19f0:4400:6bed:5400:2ff:feb1:f9fa
 
 # Brahma World
 2400:6180:100:d0::8d7:1
@@ -272,3 +279,8 @@ Ordered list
 2001:678:888:69:c45d:2738:c3f2:1878
 2001:148f:fffe
 2a01:4f8:c2c:87b5::1
+2001:470:20::2
+2a01:9e00::54
+2a01:9e01::55
+2a01:9e00::55
+2a01:9e01::54 
