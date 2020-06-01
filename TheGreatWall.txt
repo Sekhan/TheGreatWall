@@ -3,8 +3,8 @@
 ## To block DNS over TLS (DoT), block port 853
 ## This list has been created for security purpose ONLY
 ## To be more efficient, you should also consider blocking DoH providers IP adresses
-## Last update : 3 May 2020
-## Domain count : 130
+## Last update : 1 June 2020
+## Domain count : 133
 ===================================================================
 
 # Aaflalo
@@ -19,6 +19,9 @@
 0.0.0.0 dns.alekberg.net
 0.0.0.0 dns2.alekberg.net
 0.0.0.0 dnsse.alekberg.net
+
+# AliDNS
+0.0.0.0 dns.alidns.com
 
 # Andrews & Arnold
 0.0.0.0 dns.aa.net.uk
@@ -64,6 +67,7 @@
 0.0.0.0 dns64.cloudflare-dns.com
 0.0.0.0 security.cloudflare-dns.com
 0.0.0.0 family.cloudflare-dns.com
+0.0.0.0 dns.cloudflare.com
 
 # Comcast
 0.0.0.0 doh.xfinity.com
@@ -97,6 +101,9 @@
 
 # DNSforge
 0.0.0.0 dnsforge.de
+
+# DNS home
+0.0.0.0 dns.dnshome.de
 
 # DNS lify
 0.0.0.0 doh.dnslify.com
@@ -245,4 +252,4 @@
 0.0.0.0 rumpelsepp.org
 0.0.0.0 ordns.he.net
 0.0.0.0 rdns.faelix.net
-
+0.0.0.0 adfree.usableprivacy.net
