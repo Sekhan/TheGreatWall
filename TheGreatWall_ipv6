@@ -1,8 +1,8 @@
 ## Title: TheGreatWall_ipv6
 ## Blocking DoH providers at firewall level
 ## This list has been created for security purpose ONLY
-## Last update : 1 June 2020
-## IP count : 103
+## Last update : 15 June 2020
+## IP count : 101
 ===================================================================
 
 # Aaflalo
@@ -51,8 +51,6 @@
 2606:4700::6812:237
 2606:4700::6812:1a80
 2606:4700::6812:1b80
-2606:4700::6810:85e5
-2606:4700::6810:84e5
 
 # Comcast
 2001:558:fe21:6b:96:113:151:148
