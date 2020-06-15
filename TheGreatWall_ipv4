@@ -1,8 +1,8 @@
 ## Title: TheGreatWall_ipv4
 ## Blocking DoH providers at firewall level
 ## This list has been created for security purpose ONLY
-## Last update : 1 June 2020
-## IP count : 138
+## Last update : 15 June 2020
+## IP count : 136
 ===================================================================
 
 # Aaflato
@@ -71,8 +71,6 @@
 104.18.3.55
 104.18.27.128
 104.18.26.128
-104.16.133.229
-104.16.132.229
 
 # Comcast
 96.113.151.149
