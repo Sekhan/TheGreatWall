@@ -5,7 +5,7 @@
 ## To be more efficient, you should also consider blocking DoH providers IP adresses
 ## Last update : 15 June 2020
 ## Domain count : 132
-===================================================================
+## ===================================================================
 
 # Aaflalo
 0.0.0.0 dns.aaflalo.me
